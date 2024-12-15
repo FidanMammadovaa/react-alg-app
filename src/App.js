@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path="/react-app-alg" element={<Layout />}>
+        <Route path="/react-alg-app" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="favorites" element={<Favorites />} />
         </Route>
