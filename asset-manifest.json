@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-alg-app/static/css/main.d59e30a6.css",
+    "main.js": "/react-alg-app/static/js/main.07dc86b1.js",
+    "static/js/488.9f235dfa.chunk.js": "/react-alg-app/static/js/488.9f235dfa.chunk.js",
+    "index.html": "/react-alg-app/index.html",
+    "main.d59e30a6.css.map": "/react-alg-app/static/css/main.d59e30a6.css.map",
+    "main.07dc86b1.js.map": "/react-alg-app/static/js/main.07dc86b1.js.map",
+    "488.9f235dfa.chunk.js.map": "/react-alg-app/static/js/488.9f235dfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d59e30a6.css",
+    "static/js/main.07dc86b1.js"
+  ]
+}
