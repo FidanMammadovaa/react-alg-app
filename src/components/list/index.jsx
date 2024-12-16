@@ -53,7 +53,7 @@ export default function List() {
                 <button className={styles.saveButton} onClick={handleSave}>Save list</button>
             ) : <></>}
             {isSaved ? (
-                <Link to={`/favorites`}>Go to Favorites</Link>
+                <Link to={`favorites`}>Go to Favorites</Link>
             ) : <></>
             }
         </div>

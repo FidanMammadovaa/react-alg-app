@@ -6,7 +6,7 @@ export default function Header() {
         <header className={styles.header}>
             <nav className={styles.navbar}>
                 <ul className={styles.links}>
-                    <li><Link to="/" className={styles.link}>Home</Link></li>
+                    <li><Link to="" className={styles.link}>Home</Link></li>
                 </ul>
             </nav>
         </header>
